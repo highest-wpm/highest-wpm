@@ -38,23 +38,24 @@
 
 讀書會時間規劃與其他讀書會一樣，一期為期三個月，每週分享。 
 不以固定形式舉行，包含網路電話、視訊分享、錄音錄影分享等等。  
+爲避免造成成員困擾，主席、成員應進行討論最佳的進行方式。
 
 ## 第一期內容
 
-1. 讀書會介紹與開場 & 如何使用 Git - 分享人：[KuanHui Wu](https://github.com/kkuanhui)
+1. 讀書會介紹 & Git & Markdown - 分享人：[KuanHui Wu](https://github.com/kkuanhui)
 2. Google 命名風格 - Convention over Configuration - 分享人：[KuanHui Wu](https://github.com/kkuanhui)
 3. 網際網路是什麼 - An Overview of Internet - 分享人：[KuanHui Wu](https://github.com/kkuanhui)
 4. 什麼是網站 - An overview of Website - 分享人：[KuanHui Wu](https://github.com/kkuanhui)
-5. 網站開發 - HTML5 CSS3 JavaScript
-6. 網站開發 - More JavaScript, encluding ES5, ES6, React.js
-5. 網站開發 - Backend(Runtime environment, OS, http...etc)
-6. 資料庫介紹 - Rational Database & History of SQL
-7. 資料庫介紹 - Non-structure Database & Other 5 sorts of database
-8. 資料科學介紹 - I wanna be a Data Scientist.
-9. 資料科學 - Data Engineer
-0. 資料科學 - Data Scientist
-1. 資料科學 - ML/AL Specialist
+5. 網站開發 - HTML5 CSS3 JavaScript - 分享人：[自願者]()
+6. 網站開發 - More JavaScript, encluding ES5, ES6, React.js - 分享人：[自願者]()
+5. 網站開發 - Backend - 分享人：[自願者]()
+6. 資料庫介紹 - Rational Database & History of SQL - 分享人：[自願者]()
+7. 資料庫介紹 - Non-structure Database & Other 5 sorts of database - 分享人：[自願者]()
+8. 資料科學介紹 - I wanna be a Data Scientist. - 分享人：[自願者]()
+9. 資料科學 - Data Engineer - 分享人：[自願者]()
+0. 資料科學 - Data Scientist - 分享人：[自願者]()
+1. 資料科學 - ML/AL Specialist - 分享人：[自願者]()
 
 ## 第二期內容
 
-第一期討論尾聲再行討論
+待第一期討論尾聲再行討論
