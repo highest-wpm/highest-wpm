@@ -6,21 +6,19 @@ Markdown 是一種輕量級標記語言（Lighweight Markup Language），文件
 讀書會中的分享報告都要寫在 Markdown 檔案之中，若成員還不熟悉 Markdown 語法，可以參考下方的 Markdown Cheatsheet。<br/>
 
 # 維基百科的 Markdown 小故事
-約翰·格魯伯在2004年創造了Markdown語言，在語法上有很大一部分是跟亞倫·斯沃茨共同合作的。這個語言的目的是希望大家使用「易於閱讀、易於撰寫的純文字格式，並選擇性的轉換成有效的XHTML（或是HTML）」。
 
-其中最重要的設計是可讀性，也就是說這個語言應該要能直接在字面上的被閱讀，而不用被一些格式化指令標記（像是RTF與HTML）。
+John Gruber 在 2004 年創造了 Markdown 語言，在語法上有很大一部分是跟 Aaron Swartz 共同合作的。這個語言的目的是希望大家使用「易於閱讀、易於撰寫的純文字格式，並選擇性的轉換成有效的 XHTML（或是 HTML）」。其中最重要的設計是可讀性，也就是說這個語言應該要能直接在字面上的被閱讀，而不用被一些格式化指令標記（像是 RTF 與 HTML）。
 
-因此，它是現行電子郵件標記格式的慣例，雖然它也借鑒了幾個早期的標記語言，如：Setext、Textile (markup language)、reStructuredText。格魯伯也編寫了的Perl指令碼：Markdown.pl，用於把markdown語法編寫的內容轉換成有效的、結構良好的XHTML或HTML內容，並將左尖括號<和&號替換成它們各自的字元實體參照。它可以用作單獨的指令碼，Blosxom和Movable Type的外掛程式又或者BBEdit的文字過濾器。Markdown也已經被其他人用Perl和別的程式語言重新實現，其中一個Perl模組放在了CPAN(Text::Markdown)上。它基於一個BSD風格的許可證分發並可以作為幾個內容管理系統的外掛程式。
+## Markdown 的創作者
 
+* John Gruber
 
-## Markdown 之父
-
-* 
-
-*  
+* Aaron Swartz
 
 
 # 為什麼要用 Markdown?
+
+Markdown 是最廣為人知的檔案格式
 
 ## Google 怎麼說？
 

@@ -26,6 +26,10 @@
 
 > 互相漏氣求進步
 
+# 創始會員
+成員：華柏維、龎妤婷、蘇毓雯
+旁聽：吳喻敏、劉元祺、俞健、趙琪琪
+
 # GitHub Organization
 
 * 主席將邀請所有成員進入 GitHub Organization  
