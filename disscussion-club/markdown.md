@@ -17,23 +17,16 @@ John Gruber 在 2004 年創造了 Markdown 語言，在語法上有很大一部�
 
 * Aaron Swartz
 (1986 – 2013， 26y)  
-一名駭客，網路社群平台 Reddit 的聯合創始人。    
+一位駭客，網路社群平台 Reddit 的聯合創始人，網路自由的倡議人。       
 在 2013 年為了自己所相信的網路理念而自殺，享年 26 歲。    
 以下是全球資訊網之父暨圖靈獎得主 Sir Timothy John Berners-Lee 的哀悼詞。   
-> Aaron dead. World wanderers, we have lost a wise elder. Hackers for right, we are one down. Parents all, we have lost a child. Let us weep.
+> Aaron dead. World wanderers, we have lost a wise elder. Hackers for right, we are one down. Parents all, we have lost a child. Let us weep.  
+> Aaron 逝世了。世人啊，我們失去一位睿智的前者。為權利奮鬥的駭客們啊，我們失去一位夥伴。天下的父母啊，我們失去了一個孩子。哭泣吧。
 
 
 # 為什麼要用 Markdown?
 
 從 Github 的預設 README 檔案格式可以知道，Markdown 是最受歡迎的標記語言，它極為輕量，幾乎任何編輯器都能開啟來編輯，加上它可以快速轉換成 HTML 格式，可以快速的將文本以網頁型式分享出去，
-
-## Google 怎麼說？
-
-## 輕量的 Markdwon
-
-## 可以轉化成任何形式
-
-## 所有機器都支援
 
 # 我要怎麼寫 Markdown?
 
@@ -42,13 +35,12 @@ John Gruber 在 2004 年創造了 Markdown 語言，在語法上有很大一部�
 
 ## 在 VS Code 寫 markdown
 
-在 VS code 新增一個 markdown 檔案後，直接
-我使用的 Extension 是 Markdown Preview Enhanced，這個工具可以即時渲染 markdown 文檔
+在 VS code 可以直接新增一個 markdown 檔案，並且立即編輯。  
+我使用的 Extension 是 Markdown Preview Enhanced，這個工具可以即時渲染 markdown 文檔，使我可以一邊編輯 markdown 檔案，一邊檢視渲染後的效果。
 
 ## Markdown to HTML
-Markdown 跟 HTML 都是 Markup Language，它們兩者是可以互通的，這是一個相當方便的性值，只要我們在好寫好懂得 Markdown 上撰寫完文章，就可以快速地轉換成 HTML 格式，迅速地發表在網頁上。
+Markdown 跟 HTML 都是 Markup Language，它們兩者是可以互通的，這是一個相當方便的性質，只要我們在好寫好懂的 Markdown 上撰寫完文章，就可以快速地轉換成 HTML 格式，迅速地發表在網頁上。  
+基本上，純 markdown 文本是可以被瀏覽器直接選染成 HTML 的，並不需要經過一次轉換就能使用瀏覽器瀏覽，然而我們喜歡客製轉換風格，設定我們喜愛的字體，特定 `tag` 的色彩，整體的排版等等。  
 
 ## Markdown 語法
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-# Referrence
