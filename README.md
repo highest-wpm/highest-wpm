@@ -7,5 +7,8 @@ Please follow all naming convention describe dow below.
 3. JavaScript W3Schools: https://www.w3schools.com/js/js_conventions.asp
 
 
-Hello World
-Hi  everyone!
+Hello World  
+Hi  everyone!   
+
+
+This line is edited on Github.  
