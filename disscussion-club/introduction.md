@@ -48,8 +48,7 @@
 
 1. 讀書會介紹 & Git & Markdown - 分享人：[KuanHui Wu](https://github.com/kkuanhui)
 2. Google 命名風格 - Convention over Configuration - 分享人：[KuanHui Wu](https://github.com/kkuanhui)
-3. 網際網路是什麼 - An Overview of Internet - 分享人：[KuanHui Wu](https://github.com/kkuanhui)
-4. 什麼是網站 - An overview of Website - 分享人：[KuanHui Wu](https://github.com/kkuanhui)
+3. 網際網路是什麼與什麼是網站 - An Overview of Internet - 分享人：[KuanHui Wu](https://github.com/kkuanhui)
 5. 網站開發 - HTML5 CSS3 JavaScript - 分享人：[自願者]()
 6. 網站開發 - More JavaScript, encluding ES5, ES6, React.js - 分享人：[自願者]()
 5. 網站開發 - Backend - 分享人：[自願者]()
