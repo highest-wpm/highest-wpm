@@ -22,12 +22,16 @@ GitHub 是透過 Git 進行版本控制的軟體原始碼代管服務平台，20
 Github 就像是 code 的社群軟體，它也曾被戲稱是 Gayhub，因為這個平台上的使用者多為男性。    
   
 # 常用的 Git 語法
-1. `git add .`: 追蹤指定檔案被做的更動。   
-2. `git commit -m 'message'`: 將被追蹤的檔案更動寫入 git 紀錄中。  
-2. `git push origin master`: 將 local 的 git version 推向指定的遠端 repo 的指定分支上。
-2. `git remote -v`: 打印初所有遠端的 git repo。
-2. `git status`: 打印出現行 git 的所偵測到的狀態。
-2. `git log`: 打印出所有 git 紀錄的版本。
+1. `git init`: 將使用者的當下位置進行 git 初始化
+2. `git clone https://some.domain.com`: 將位在特定位置的 git repository (repo) 下載到 local。 
+3. `git add .`: 追蹤指定檔案被做的更動。   
+4. `git commit -m 'message'`: 將被追蹤的檔案更動寫入 git 紀錄中。  
+5. `git push origin master`: 將 local 的 git version 推向指定的遠端 repo 的指定分支上。
+6. `git remote -v`: 打印出所有遠端的 git repo。
+7. `git status`: 打印出現行 git 的所偵測到的狀態。
+8. `git log`: 打印出所有 git 紀錄的版本。
+9. `git pull`: 將遠端 repo 的變動的項目 merge 到 local repo 上。
+10. `git fetch`: 將遠端 repo 的變動項目記載到 local 上。如同將遠端 repo 的變動在 local add 上。  
 
 [Often used git commands](https://github.com/joshnh/Git-Commands)   
 
