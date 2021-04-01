@@ -18,7 +18,7 @@ John Gruber 在 2004 年創造了 Markdown 語言，在語法上有很大一部�
 * Aaron Swartz
 (1986 – 2013， 26y)  
 一位駭客，網路社群平台 Reddit 的聯合創始人，網路自由的倡議人。       
-在 2013 年為了自己所相信的網路理念而自殺，享年 26 歲。    
+在 2013 年為了自己所相信的網路理念而自殺，得年 26 歲。    
 以下是全球資訊網之父暨圖靈獎得主 Sir Timothy John Berners-Lee 的哀悼詞。   
 > Aaron dead. World wanderers, we have lost a wise elder. Hackers for right, we are one down. Parents all, we have lost a child. Let us weep.  
 > Aaron 逝世了。世人啊，我們失去一位睿智的前者。為權利奮鬥的駭客們啊，我們失去一位夥伴。天下的父母啊，我們失去了一個孩子。哭泣吧。
