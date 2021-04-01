@@ -1,16 +1,23 @@
 # Git
 # Git 是什麼
-Git 是 Linux 之父 Linus Torvalds 為了管理全球開發者提交的程式碼所創作的版本管理工具，在 Git 問世之前，
+
+
+> 自 2002 年開始，林納斯·托瓦茲決定使用 BitKeeper 作為 Linux 核心主要的版本控制系統用以維護程式碼。因為 BitKeeper 為專有軟體，這個決定在社群中長期遭受質疑。在 Linux 社群中，特別是理察·斯托曼與自由軟體基金會的成員，主張應該使用開放原始碼的軟體來作為 Linux 核心的版本控制系統。Linus Torvalds 曾考慮過採用現成軟體作為版本控制系統（例如 Monotone ），但這些軟體都存在一些問題，特別是效能不佳。現成的方案，如CVS的架構，受到 Linus Torvalds 的批評。
+> 2005 年，安德魯·垂鳩寫了一個簡單程式，可以連接 BitKeeper 的儲存庫，BitKeeper 著作權擁有者拉里·麥沃伊認為安德魯·垂鳩對 BitKeeper 內部使用的協定進行逆向工程，決定收回無償使用 BitKeeper 的授權。Linux 核心開發團隊與 BitMover 公司進行磋商，但無法解決他們之間的歧見。Linus Torvalds 決定自行開發版本控制系統替代 BitKeeper，以十天的時間編寫出 git 第一個版本。  
 
 # 為什麼要學 Git
-Git 是版本控制工具，
-在開發者的世界一樣有基礎的必學工具，git 是最必學的工具，學會 git 才有能力與其他開發者一同工作，利用 git 追蹤與紀錄檔案的變化。
+Git 是版本控制工具。  
+若開發者的世界有必須學會的工具，那一定是如何打字、如何使用電腦、如何使用 git。   
+學會 git 才有能力與其他開發者一同工作。利用 git 追蹤與紀錄檔案的變化，控制版本，實現多人同時開發同一個檔案。
 
 # Git 的創作者
 Linus Torvalds
+(1969 - 現在，51y)
+大銘鼎鼎的 Linux 之父，為了管理全世界開發者對 Linux 核心提交的程式碼而以 10 天的時間開發出 git。
 
 # Github 是什麼
-GitHub 是透過 Git 進行版本控制的軟體原始碼代管服務平台，2018 年夏天被微軟以 75 億美金收購。
+GitHub 是透過 Git 進行版本控制的軟體原始碼代管服務平台，2018 年夏天被微軟以 75 億美金收購。  
+Github 就像是 code 的社群軟體，它也曾被戲稱是 Gayhub，因為這個平台上的使用者多為男性。
 
 # 常用的 Git 語法
 1. `git add .`: 追蹤指定檔案被做的更動。
@@ -20,6 +27,7 @@ GitHub 是透過 Git 進行版本控制的軟體原始碼代管服務平台，20
 2. `git status`: 打印出現行 git 的所偵測到的狀態。
 2. `git log`: 打印出所有 git 紀錄的版本。
 
+[Often used git commands](https://github.com/joshnh/Git-Commands)
 
 # Git 軼聞
 
@@ -28,5 +36,3 @@ Git 一詞在有混蛋的意思，Torvalds 解釋喜歡以自身暱稱爲作品�
 
 * master branch
 2020 年起美國發生 BLM 系列活動，Github 官方爲避免術語涉及非裔美國人在過往被奴役的歷史，選擇將預設的 branch 名稱「master」改為「main」，如今新創的 repository 預設的 branch 會是 main。
-
-# Reference
