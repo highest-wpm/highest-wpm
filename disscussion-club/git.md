@@ -3,8 +3,8 @@
 
 以下片段節錄自維基百科  
 
-> 自 2002 年開始，林納斯·托瓦茲決定使用 BitKeeper 作為 Linux 核心主要的版本控制系統用以維護程式碼。因為 BitKeeper 為專有軟體，這個決定在社群中長期遭受質疑。在 Linux 社群中，特別是理察·斯托曼與自由軟體基金會的成員，主張應該使用開放原始碼的軟體來作為 Linux 核心的版本控制系統。Linus Torvalds 曾考慮過採用現成軟體作為版本控制系統（例如 Monotone ），但這些軟體都存在一些問題，特別是效能不佳。現成的方案，如CVS的架構，受到 Linus Torvalds 的批評。
-> 2005 年，安德魯·垂鳩寫了一個簡單程式，可以連接 BitKeeper 的儲存庫，BitKeeper 著作權擁有者拉里·麥沃伊認為安德魯·垂鳩對 BitKeeper 內部使用的協定進行逆向工程，決定收回無償使用 BitKeeper 的授權。Linux 核心開發團隊與 BitMover 公司進行磋商，但無法解決他們之間的歧見。Linus Torvalds 決定自行開發版本控制系統替代 BitKeeper，以十天的時間編寫出 git 第一個版本。  
+> 自 2002 年開始，林納斯·托瓦茲決定使用 BitKeeper 作為 Linux 核心主要的版本控制系統用以維護程式碼。因為 BitKeeper 為專有軟體，這個決定在社群中長期遭受質疑。在 Linux 社群中，特別是理察·斯托曼與自由軟體基金會的成員，主張應該使用開放原始碼的軟體來作為 Linux 核心的版本控制系統。Linus Torvalds 曾考慮過採用現成軟體作為版本控制系統（例如 Monotone ），但這些軟體都存在一些問題，特別是效能不佳。現成的方案，如CVS的架構，受到 Linus Torvalds 的批評。    
+> 2005 年，安德魯·垂鳩寫了一個簡單程式，可以連接 BitKeeper 的儲存庫，BitKeeper 著作權擁有者拉里·麥沃伊認為安德魯·垂鳩對 BitKeeper 內部使用的協定進行逆向工程，決定收回無償使用 BitKeeper 的授權。Linux 核心開發團隊與 BitMover 公司進行磋商，但無法解決他們之間的歧見。Linus Torvalds 決定自行開發版本控制系統替代 BitKeeper，以十天的時間編寫出 git 第一個版本。     
 
 # 為什麼要學 Git
 Git 是版本控制工具。  
