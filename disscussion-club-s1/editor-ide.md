@@ -18,7 +18,8 @@ Vim 與 Emacs 都是相當古老的編輯器，而且都是 Terminal based，與
 
 # 上手難度
 下圖是一張網路迷因圖，已相當有趣的方式描述不同 Editor 的學習曲線，其中 vi 就是 Vim。   
-我個人相當推薦學習 Vim，因為很多終端機編輯需求都是預設使用 Vim，例如 git，而學習 Vim 的過程又會接觸到不少駭客文化，對於初學者都有莫大的幫助。
+我個人相當推薦學習 Vim，因為很多終端機編輯需求都是預設使用 Vim，例如 git，而學習 Vim 的過程又會接觸到不少駭客文化，對於初學者都有莫大的幫助。   
+
 ![Learning Curve](https://i.stack.imgur.com/7Cu9Z.jpg)
 
 
