@@ -14,11 +14,14 @@ John Gruber 在 2004 年創造了 Markdown 語言，在語法上有很大一部�
 ## Markdown 的創作者
 
 * John Gruber
-(1973 - 現在)  
+(1973 - 現在)
+<img alt="John Gruber" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/John_Gruber%2C_2009_%28cropped%29.jpg/220px-John_Gruber%2C_2009_%28cropped%29.jpg
+" width=300>
 一個 UI 設計師、網頁程式開發者、Podcastor。  
 
 * Aaron Swartz
 (1986 – 2013， 26y)  
+<img alt="Aaron Swartz" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Aaron_Swartz_2_at_Boston_Wikipedia_Meetup%2C_2009-08-18.jpg/220px-Aaron_Swartz_2_at_Boston_Wikipedia_Meetup%2C_2009-08-18.jpg" width=300>
 一位駭客，網路社群平台 Reddit 的聯合創始人，網路自由的倡議人。       
 在 2013 年為了自己所相信的網路理念而自殺，得年 26 歲。    
 以下是全球資訊網之父暨圖靈獎得主 Sir Timothy John Berners-Lee 的哀悼詞。   
