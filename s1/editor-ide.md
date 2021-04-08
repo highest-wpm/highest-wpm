@@ -1,4 +1,7 @@
 # Editor and Intergral Development Environment
+
+# 作者：KuanHui
+
 編輯器與整合開發環境
 
 >你只需要記事本就可以開始寫程式了，但你不會想要用它來完成你偉大的作品！
