@@ -1,7 +1,7 @@
 # Markdown
-<img alt="logo" src="https://kirkstrobeck.github.io/whatismarkdown.com/img/markdown.png" width=500>
-
 2021/3/21 Kuanhui Wu  
+
+<img alt="logo" src="https://kirkstrobeck.github.io/whatismarkdown.com/img/markdown.png" width=300>
 
 Markdown 是一種輕量級標記語言（Lighweight Markup Language），文件的副檔名是`.md`，相比格式豐富的標記語言如 `HTML`、`RTF` 與 `TeX`，Markdown 的文本格式較少故可歸類為輕量標記語言。Markdown 簡單的文本格式使得原始檔案的可讀性被保存，在編輯上相當輕鬆，又其好懂好記的標記，任何人都能輕鬆上手。作為一標記語言，Markdown 可以輕易的轉化成 HTML 格式，藉此 Markdown 文本可以輕鬆的渲染到網頁上，Markdown 大幅降低文本撰寫到文本排版到文本傳遞的時間。全球最大的 Git server 供應商 Github 預設的 README 檔案就是 Markdown 檔案，由此我們可以知道 Markdown 是被全球開發者廣泛使用的工具。<br/>
 
