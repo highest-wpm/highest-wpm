@@ -15,8 +15,7 @@ John Gruber 在 2004 年創造了 Markdown 語言，在語法上有很大一部�
 
 * John Gruber
 (1973 - 現在)
-<img alt="John Gruber" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/John_Gruber%2C_2009_%28cropped%29.jpg/220px-John_Gruber%2C_2009_%28cropped%29.jpg
-" width=300>
+<img alt="John Gruber" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/John_Gruber%2C_2009_%28cropped%29.jpg/220px-John_Gruber%2C_2009_%28cropped%29.jpg" width=300>
 一個 UI 設計師、網頁程式開發者、Podcastor。  
 
 * Aaron Swartz
