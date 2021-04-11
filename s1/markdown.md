@@ -43,7 +43,15 @@ John Gruber 在 2004 年創造了 Markdown 語言，在語法上有很大一部�
 ## 在 VS Code 寫 markdown
 
 在 VS code 可以直接新增一個 markdown 檔案，並且立即編輯。  
-我使用的 Extension 是 Markdown Preview Enhanced，這個工具可以即時渲染 markdown 文檔，使我可以一邊編輯 markdown 檔案，一邊檢視渲染後的效果。
+我使用的 Extension 是 Markdown Preview Enhanced，這個工具可以即時渲染 markdown 文檔，使我可以一邊編輯檔案，一邊檢視渲染後的效果。
+
+## 其他推薦的編輯器
+
+### Windows
+我推薦 markdownpad
+
+### Mac 
+我推薦 iA writer
 
 ## Markdown to HTML
 Markdown 跟 HTML 都是 Markup Language，它們兩者是可以互通的，這是一個相當方便的性質，只要我們在好寫好懂的 Markdown 上撰寫完文章，就可以快速地轉換成 HTML 格式，迅速地發表在網頁上。  

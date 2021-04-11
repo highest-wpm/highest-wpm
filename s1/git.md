@@ -2,6 +2,8 @@
 
 # 作者：KuanHui
 
+<img alt="git logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" width="150px">
+
 # Git 是什麼
 
 以下片段節錄自維基百科    
@@ -17,10 +19,14 @@ Git 是版本控制工具。
 
 # Git 的創作者
 Linus Torvalds   
-(1969 - 現在，51y)   
+(1969 - 現在，51y) 
+<img alt="git logo" src="https://i.pcmag.com/imagery/articles/04YGKmUR4kalhELBkVuuviO-1.fit_scale.size_1028x578.v1569488622.png" width="300px">  
 大銘鼎鼎的 Linux 之父，為了管理全世界開發者對 Linux 核心提交的程式碼而以 10 天的時間開發出 git。  
 
 # Github 是什麼
+
+<img alt="git logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" width="100px">     
+
 GitHub 是透過 Git 進行版本控制的軟體原始碼代管服務平台，2018 年夏天被微軟以 75 億美金收購。    
 Github 就像是 code 的社群軟體，它也曾被戲稱是 Gayhub，因為這個平台上的使用者多為男性。    
   
