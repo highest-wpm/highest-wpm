@@ -2,7 +2,7 @@
 
 # 作者: YuJian
 
-<img src="https://bkimg.cdn.bcebos.com/pic/c9fcc3cec3fdfc0391a26bcad83f8794a5c226ed?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxNTA=,g_7,xp_5,yp_5/format,f_auto" alt="ie_icon" style="zoom: 10%;" />
+<img src="https://bkssl.bdimg.com/static/wiki-album/widget/picture/pictureDialog/resource/img/img-bg_86e1dfc.gif" alt="ie_icon" style="zoom: 10%;" />
 
 
 # Internet 是什麼
