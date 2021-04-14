@@ -2,7 +2,7 @@
 
 # 作者: YuJian
 
-<img src="internet.assets/ie_icon.jpg" alt="ie_icon" style="zoom:50%;" />
+<img src="internet.assets/ie_icon.png" alt="ie_icon" style="zoom:50%;" />
 
 
 # Internet 是什麼
