@@ -19,7 +19,6 @@ John Gruber 在 2004 年創造了 Markdown 語言，在語法上有很大一部�
 一個 UI 設計師、網頁程式開發者、Podcastor。  
 
 
-
 * Aaron Swartz
 (1986 – 2013， 26y)  
 <img alt="Aaron Swartz" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Aaron_Swartz_2_at_Boston_Wikipedia_Meetup%2C_2009-08-18.jpg/220px-Aaron_Swartz_2_at_Boston_Wikipedia_Meetup%2C_2009-08-18.jpg" width=300>
