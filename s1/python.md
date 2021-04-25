@@ -76,32 +76,42 @@ REPL 的全名是 Read-Evaluate-Print-Loop，REPL 環境讓使用者可以馬上
 
 Jupyter Notebook 是非常強大的 Web based 的 Python IDE，支援魔術指令，可以及時輸出部分程式碼的執行結果，Notebook 檔案的副檔名是 `.ipynb`。
 
-
 下載方式
 
+如果你下載了 Anaconda，Jupyter 也會連帶一起下載，所以不用再下載一次。
+
 ``` 
+# using pip
 pip install jupyter
+
+# using conda
+conda install jupyter
+
+# activate jupyter notebook
+jupyter notebook
+
+# activate jupyter lab
+jupyter lab
 ```
 
-# Anaconda
 
-## conda 與 pip 的不同
+# conda 與 pip 的不同
 
-# Python 基礎語法
+`pip` 是 Python 專用的套件管理器，而 `conda` 是以 Python 撰寫的跨語言的套件管理器，所以也可以透過 `pip` 下載。
 
+```
+pip install conda
+``` 
 
-# Django - 網頁框架
-# Pandas - 你新的 Excel 
-# Numpy & Scipy - 數學好幫手
-# Matplotlib - 視覺化精靈
-# Python Community - welcome to the nightbor
-## 其他常用套件
-### selenium - 變身蜘蛛人
-selenium 是一個自動化測試套件，因為操作特性被當作爬蟲工具來使用。
-### scikit-learn - Machine Learning
-scikit-learn 是開源的機器學習套件，被很多學術單位及公司使用。
-### tensorflow, pytorch - Deep Learning
-tensorflow 是 Google.inc 發表的深度學習框架，
+Anaconda 在資料科學領域相當出色，若是其他應用程式開發則可以使用 `pip`。
 
 # 第一個 side project
-學習程式語言跟自然語言都是一樣的，唯有時常使用才能熟練，我推薦在知名影音平台上學習例如 Youtube、udemy，並且在 w3school、stackoverflow 解決自己的疑問，在自學的過程中學會如何 google。在學習完基礎語法之後，動手做第一個 side project，透過實作一整個專案的過程，了解程式語言本身的特性。
+
+程式語言本身是沒有用處的，就像自然語言如普通話或英文一樣，只有被使用的時候才有意義，要想精進寫程式的能力沒有他法，就是要一直寫一直寫一直寫，但是程式語言不能寫日記，必須要有題目有目標才能開始使用。 所謂的 side project 就是與日常生活無關的計畫，可以是修復一台經典老車（例如 1990 年的 BMW E30！😎）、可以是打造自己的私人空間（把空閑的工作陽台改造成舒適的空中花園）、也可以是做自己的第一個網站或是機器學習模型！
+
+如果讀者對網站有興趣，可以從待辦事項清單 to do list 開始；如果對資料科學有興趣，不仿先從 IMDb 文本分類開始。
+
+# 後記
+
+## pandas 能不能在辦公室取代 excel ？
+如果可以使用 pandas 取代辦公室之王 excel ，就不用支付微軟授權費用了！可惜的是 excel 在辦公室的地位還是難以撼動，理由有以下幾點。首先，操作 pandas 需要撰寫具備撰寫 python 語法的能力， python 的語法還沒有簡單到看一眼就學會，而在 2021 年的人們上手 excel 幾乎不需要時間。第二，多數時間我們需要對資料做不同的工作， pandas 寫成的腳本就沒有持續使用的機會，而 excel 的可視介面與簡單操作就可以快速地把工作搞定。第三，不考慮搭配 access 的情況下， excel 的短板之一是在處理大量資料速度較慢，相對地 pandas 搭配平行運算技術或其他加速工具下甚至可以處理 PB 級的數據量。然而辦公室內曾幾何時需要操作大量數據呢？呈報給主管的數據多是寥寥數行而已，使用 excel 就能完成日常工作了。pandas 與 excel 不是彼此的替代品，應該審視使用背景選擇最適用的工具。

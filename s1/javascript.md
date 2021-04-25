@@ -15,15 +15,7 @@
 
 # ECMAScript
 ![](https://raw.githubusercontent.com/meetup-q/meetup-q/master/s1/img/ecmascript-logo.png)
-ECMAScript 指的是腳本語言的規格，而 JavaScript 則是實作出的語言
-
-ECMAScript 就是 JavaScript
-# ES5
-
-ES5 
-
-# ES6
-ES6 introduced many lovely feature which helps code more cleaner.
+ECMAScript 指的是語言的規格，而 JavaScript 則是實作出的語言。不同瀏覽器之間有不同的JavaScript 的直譯器，這些直譯器需要符合 ECMAScript 的內容，所以 JavaScript 在每個瀏覽器才會呈現一致的結果。有時候開發者會直接認為 ECMAScript 等價於 JavaScript，它們之間還是有點差異，但大致上兩者都要實現同樣的結果，完成同樣的工作。
 
 # TypeScript
 ![typescript](https://raw.githubusercontent.com/meetup-q/meetup-q/master/s1/img/typescript.png)
