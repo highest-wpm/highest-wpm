@@ -15,7 +15,17 @@
 
 # ECMAScript
 ![](https://raw.githubusercontent.com/meetup-q/meetup-q/master/s1/img/ecmascript-logo.png)
+
+ECMA 是歐洲電腦製造商協會 European Computer Manufacture Association 的簡稱（因為全球化發展已經放棄全稱），ECMA-262 是這一種腳本語言最初的規範，尊崇這個規範的腳本語言就可以稱作 ECMAScript，JavaScript 就是符合這個標準的語言，所以也可以稱作 ECMAScript。
+
 ECMAScript 指的是語言的規格，而 JavaScript 則是實作出的語言。不同瀏覽器之間有不同的JavaScript 的直譯器，這些直譯器需要符合 ECMAScript 的內容，所以 JavaScript 在每個瀏覽器才會呈現一致的結果。有時候開發者會直接認為 ECMAScript 等價於 JavaScript，它們之間還是有點差異，但大致上兩者都要實現同樣的結果，完成同樣的工作。
+
+ECMAScript 是持續更新的標準，最重要的更新莫過於 2015 年推出的 ES6 ，這個版本引薦了許多好用且有益於可讀性的語法，成為 ES 語法的分水嶺。現在的最新版本是 ES11。
+
+JavaScript 並不會完全跟上 ECMAScript 更新的速度，老實說 ES6 至今都還沒被所有瀏覽器所接受，更不用說後來的版本，但這個現實並不會影響開發者使用比較新的語法，因為我們可以利用 Babel 把所有語法編譯成 ES5 再交給瀏覽器。
+
+JavaScript 誕生於 1996 年，並且在 1997 年送交到 ECMA Internation，並在同年誕生 ECMAScript。JavaScript 是第一個符合 ECMAScript 規範的語言， ECMAScript 又是參照 JavaScript 制定出第一版規範。所以兩者等價。
+
 
 # TypeScript
 ![typescript](https://raw.githubusercontent.com/meetup-q/meetup-q/master/s1/img/typescript.png)
