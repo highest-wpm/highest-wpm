@@ -23,50 +23,50 @@ Guido van Rossum 原為荷蘭國家數學和電腦科學研究中心的員工，
 在 Python REPL 環境輸入 `import this` 就會出現 Python 彩蛋「 Zen of Python 」，這是一個講述 Python 哲學的詩篇，而所謂 「 Pythonic 」 的程式碼必定得符合。
 
 原文：
-> The Zen of Python, by Tim Peters
-> Beautiful is better than ugly.
-> Explicit is better than implicit.
-> Simple is better than complex.
-> Complex is better than complicated.
-> Flat is better than nested.
-> Sparse is better than dense.
-> Readability counts.
-> Special cases aren't special enough to break the rules.
-> Although practicality beats purity.
-> Errors should never pass silently.
-> Unless explicitly silenced.
-> In the face of ambiguity, refuse the temptation to guess.
-> There should be one-- and preferably only one --obvious way to do it.
-> Although that way may not be obvious at first unless you're Dutch.
-> Now is better than never.
-> Although never is often better than *right* now.
-> If the implementation is hard to explain, it's a bad idea.
-> If the implementation is easy to explain, it may be a good idea.
-> Namespaces are one honking great idea -- let's do more of those!
+> The Zen of Python, by Tim Peters  
+> Beautiful is better than ugly.  
+> Explicit is better than implicit.  
+> Simple is better than complex.  
+> Complex is better than complicated.  
+> Flat is better than nested.  
+> Sparse is better than dense.  
+> Readability counts.  
+> Special cases aren't special enough to break the rules.  
+> Although practicality beats purity.  
+> Errors should never pass silently.  
+> Unless explicitly silenced.  
+> In the face of ambiguity, refuse the temptation to guess.  
+> There should be one-- and preferably only one --obvious way to do it.  
+> Although that way may not be obvious at first unless you're Dutch.  
+> Now is better than never.  
+> Although never is often better than *right* now.  
+> If the implementation is hard to explain, it's a bad idea.  
+> If the implementation is easy to explain, it may be a good idea.  
+> Namespaces are one honking great idea -- let's do more of those!  
 
 <br />
 中文翻譯：
 
-> Python 禪，Tim Peters
-> 美麗的勝於醜陋的
-> 顯性的勝於隱性的
-> 簡單的勝於複雜的
-> 複雜的勝於雜亂的
-> 扁平的勝於巢狀的
-> 稀疏的勝於密集的
-> 可讀性非常重要
-> 特例並不會特別到可以破壞規則
-> 雖然務實的好過純粹的
-> 錯誤絕對不可以不出聲地出現
-> 除非明確需要如此
-> 在面對令人混淆且不確定的問題千萬不妄自猜測
-> 且應該有唯一個完美解決問題的方法
-> 雖然這個方法可能只有荷蘭人才能在第一眼發現（註：Python 之父是荷蘭人）
-> 現在行動永遠好過永不作為
-> 雖然永不作為時常比魯莽做事要好得多
-> 不好解釋的方法必然是不好的方法
-> 好解釋的方法通常是不錯的解方
-> 有命名原則永遠是好的事情應該多多推廣！
+> Python 禪，Tim Peters  
+> 美麗的勝於醜陋的  
+> 顯性的勝於隱性的  
+> 簡單的勝於複雜的  
+> 複雜的勝於雜亂的  
+> 扁平的勝於巢狀的  
+> 稀疏的勝於密集的  
+> 可讀性非常重要  
+> 特例並不會特別到可以破壞規則  
+> 雖然務實的好過純粹的  
+> 錯誤絕對不可以不出聲地出現  
+> 除非明確需要如此  
+> 在面對令人混淆且不確定的問題千萬不妄自猜測  
+> 且應該有唯一個完美解決問題的方法  
+> 雖然這個方法可能只有荷蘭人才能在第一眼發現（註：Python 之父是荷蘭人）  
+> 現在行動永遠好過永不作為  
+> 雖然永不作為時常比魯莽做事要好得多  
+> 不好解釋的方法必然是不好的方法  
+> 好解釋的方法通常是不錯的解方  
+> 有命名原則永遠是好的事情應該多多推廣！  
 
 
 # REPL 環境
@@ -103,7 +103,7 @@ jupyter lab
 pip install conda
 ``` 
 
-Anaconda 在資料科學領域相當出色，若是其他應用程式開發則可以使用 `pip`。
+Anaconda 在資料科學領域的表現相當出色，因為它有特別針對資料科學的套件做效能優化，做資料科學不用多想就直接使用 `conda` 吧。
 
 # 第一個 side project
 
