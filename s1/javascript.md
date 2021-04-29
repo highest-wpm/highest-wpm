@@ -48,7 +48,13 @@ name = 1234
 
 # Frontend framework
 
-最受歡迎的前端框架有 React、Angular 和 Vue。React 是 Facebook, Inc. 開發的，現在的 Facebook 頁面就是使用 React，React 的設計將程式碼模組化，大大的提升程式碼再利用的效率，使得程式碼更 DRY（Don't Repeat Yourself）；Angular 是 Google, Inc. 推出的，Angular 的設計確保了前端團隊的每個人都遵從同一個規範，這個特性反映出 Google 在管理多人協作程式的專長；Vue 是中國裔開發者 Evan You 尤雨溪自主開發的，天賦極高的 Evan 在學生時代創作的作品就被 Google 相中，並邀請他加入 Google 的前端實驗室。開發 Vue 的動機是 Evan 認為當時能用的前端工具不夠靈活，且多是以管理者或以工程的角度開發，不符合開發者對前端「藝術」的需求。
+最受歡迎的前端框架有 React、Angular 和 Vue。  
+
+React 是 Facebook, Inc. 開發的，現在的 Facebook 頁面就是使用 React，React 的設計將程式碼模組化，大大的提升程式碼再利用的效率，使得程式碼更 DRY（Don't Repeat Yourself）；
+
+Angular 是 Google, Inc. 推出的，Angular 的設計確保了前端團隊的每個人都遵從同一個規範，這個特性反映出 Google 在管理多人協作程式的專長；
+
+Vue 是中國裔開發者 Evan You 尤雨溪自主開發的，天賦極高的 Evan 在學生時代創作的作品就被 Google 相中，並邀請他加入 Google 的前端實驗室。開發 Vue 的動機是 Evan 認為當時能用的前端工具不夠靈活，且多是以管理者或以工程的角度開發，不符合開發者對前端「藝術」的需求。
 
 軼聞：Evan 在訪問影片提到在 Google 前端團隊常常要思考超前世代的前端應用會是什麼，例如一面牆如果是一個巨大的螢幕要怎麼呈現上面的應用程式。這樣的需求促使他需求更靈活的前端工具，遂行創作出 Vue。
 
