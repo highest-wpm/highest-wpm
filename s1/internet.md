@@ -33,12 +33,15 @@
 
 
   1. **物理层**：提供透明的比特流传输,单位为比特。[参考](https://gitee.com/yujian19840/network-engineer-intermediate/blob/master/src/02/a.md)
+  
+
   2. **数据链路层**：原始的传输线路变成逻辑传输线路，数据单位上帧。物理链路加上必要的通信协议而组成的逻辑链路。[参考](https://gitee.com/yujian19840/network-engineer-intermediate/blob/master/src/03/a.md)
   3. **网络层**：主要功能是提供路由选择。[参考](https://gitee.com/yujian19840/network-engineer-intermediate/blob/master/src/04/a.md)
   4. **传输层**：传输层利用实现可靠的端到端数据传输，能实现分段，传输和组装。[参考](https://gitee.com/yujian19840/network-engineer-intermediate/blob/master/src/05/a.md)
   5. **会话层**：允许不同机器上的用户之间建立会话。
   6. **表示层**：提供通用的数据描述格式，功能：语法转换，表示，数加密解密，与压缩解压。
   7. **应用层**：向应用程序提供服务。[参考](https://gitee.com/yujian19840/network-engineer-intermediate/blob/master/src/06/a.md)
+
 
 #### 在数据在各层之前传递时的几个概念：
 + 封装：数据在高层向低层传输过程中，每层都对接收的原始数据添加信息，通常加一个包头与报尾。
