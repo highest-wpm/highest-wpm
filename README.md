@@ -7,12 +7,12 @@
 1. 讀書會介紹 & Git - 分享人：[KuanHui Wu](https://github.com/kkuanhui)(2021/04/01)
 2. Terminal & Editor & IDE & Markdown - 分享人：[Kuanhui Wu](https://github.com/kkuanhui)(2021/04/08)
 2. 第一個程式語言 - JavaScript, Python  - 分享人：[KuanHui Wu](https://github.com/kkuanhui)(2021/04/29)
-3. 資訊與資料的火花 - Data Science Pyramid - 分享人：[Leon Hua](https://github.com/kid50901)
-5. 前端策略 - Frontend Development - 分享人：[KuanHui Wu](https://github.com/kkuanhui)
-6. 後端基礎建設 - Backend Development - 分享人：[自願者]()
-8. 資料庫門禁 - Rational Database & History of SQL - 分享人：[自願者]()
-8. 不一樣的資料 - Non-structure Database & Other 5 sorts of database - 分享人：[自願者]()
-9. 網際網路 - The Internet! Heard of it? - 分享人：[俞健]()
+3. 資訊與資料的火花 - Data Science Pyramid - 分享人：[Leon Hua](https://github.com/kid50901)(2021/05/06)
+4. 網際網路 - The Internet! Heard of it? - 分享人：[俞健](https://github.com/snake19840)(2021/05/13)
+5. 網頁前端 - Everything you see is Frontend. - 分享人：[KuanHui Wu](https://github.com/kkuanhui)
+6. 網頁後端 - Website, you got the whole world support. - 分享人：[自願者]()
+8. 資料庫門禁 - Place where data lives which should be locked. - 分享人：[自願者]()
+9. MVC 設計模式 - Model, View, Contorller - 分享人：[自願者]()
 
 
 
