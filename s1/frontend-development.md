@@ -1,14 +1,24 @@
 # Web Frontend Development
 
-
-
 網頁「前端」就是一個網站中 User 能看見的全部，而看不見的元素基本上被歸為「後端」。前端是構成網頁最基本的元素，一個網站可以不要後端，前端是必不可少的，而只有前端的網站又稱靜態網頁。
 
 一般而言，網頁前端的需要的人力會少於後端，甚至有些公司有出現一人前端的狀況。（但筆者見過的案例沒有包含美術設計）
 
-{{TOC}}
+<!-- TOC -->
 
-## Lets fuck up Google.
+- [Lets fuck up Google.](#lets-fuck-up-google)
+- [UI/UX](#uiux)
+    - [顏色](#顏色)
+- [網頁前端三元素](#網頁前端三元素)
+    - [文本標記語言：HTML](#文本標記語言html)
+    - [階層樣式表：Cascading Style Sheet](#階層樣式表cascading-style-sheet)
+    - [腳本語言：JavaScript](#腳本語言javascript)
+- [前端效能](#前端效能)
+    - [async](#async)
+
+<!-- /TOC -->
+
+# Lets fuck up Google.
 
 既然得到 Google 的原始碼，我們就能對它做任何事情，我們可以編輯原始碼並且把 Google search bar 從這個世界上消失。
 
@@ -25,7 +35,7 @@
 
 臺灣多數的連鎖早餐店都是小店面的店家，既是小店面就必須增加人流來換取金流，鮮紅的招牌與黃色的餐桌就常常在這些品牌出現，例如美而美、美芝城、鄉村漢堡、拉亞漢堡；而麥味登的策略就相反，提供舒適且寬敞的空間留住顧客，讓客人在店內長時間用餐營造熱鬧的景象，就不見高亮的暖色系。
 
-![](https://rememberdelicious.files.wordpress.com/2012/12/image54_thumb.jpg?w=500&h=500)
+![麥味登店面](https://rememberdelicious.files.wordpress.com/2012/12/image54_thumb.jpg?w=500&h=500)
 
 - 影片：[臺灣新創電商平台 Pinkoi 重新設計 Logo 的過程](https://youtu.be/lYBX9WQDzLI)。
 
@@ -40,11 +50,7 @@
 | 青色 | info         |資訊|
 | 灰色 | secondary    |次要|
 
-# 效能
 
-## 異步
-
-## Code splitting
 
 # 網頁前端三元素
 
@@ -89,11 +95,11 @@ HTML 語意構成的文章
 
 
 
-### 搜尋最佳化：讓所有人找到這個網站
+## 階層樣式表：Cascading Style Sheet
 
-善用 HTML 語法讓搜尋引擎認識網站，
+要想快速上手 CSS 語言必須先了解 box-model，網頁的所有元素都是 box-model，由 margin、border、padding、content 組成，前端設計或前端工程的工作就是把這所有 box-model 乖乖的排列到對的位置。
 
-## 階層樣式表：CSS
+![Box Model](http://intensivstation.ch/assets/Uploads/box.png)
 
 ```css
 .component-box {
@@ -113,11 +119,10 @@ HTML 語意構成的文章
 }
 ```
 
-CSS 是筆者遇過最難懂的工具...
-
-CSS 不只是難寫
 
 ## 腳本語言：JavaScript
+
+HTML & CSS 只能表現出一個頁面的外在而已，要能活動起來一定要仰賴 JavaScript。
 
 ```javascript
 Const fetchData = () => {
@@ -132,10 +137,14 @@ Const fetchData = () => {
 }
 ```
 
-HTML & CSS 只能表現出一個頁面的外在而已，要能活動起來一定要仰賴 JavaScript。
 
-### 前端第一品牌 JQuery
 
-# 開發者工具
+# 前端效能
 
-在瀏覽器按下 F12 可以看到開發者工具
+## async
+
+因為 javascript 本身是 「synchronous」 的語言，一個步驟完成之後才會往下一個步驟前進。
+
+若有一段程式需要比較多的工作時間，接續的程式就必須等待，若一份 javascript code 有 10 個 function 需要執行，每個 function 的執行時間都是 10 秒鐘，那就需要 10 * 10 = 100 秒直譯完這份檔案。而 user 不可能忍受每次載入網頁都需要花這麼長的時間。
+
+asynchronous 技術就在解決這個問題，它實現多核心處理程序，當一個程式需要一段時間執行時，將它指派給其他執行 thread，程式繼續往下執行。
