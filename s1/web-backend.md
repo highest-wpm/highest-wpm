@@ -10,16 +10,18 @@
 1.Model（模型）對資料庫的CRUD。
 2.View（視圖）處理與展示數據。
 3.Controller（控制器）處理使用者交互的部分，例如控制器負責從視圖讀取數據，控制用戶輸入，並向模型發送數據。
-![alet test]
+![alet test](https://github.com/kid50901/meetup-q/blob/master/s1/img/mvc.png?raw=true)
 * MTV
 1.Model（模型）對資料庫的CRUD。
 2.View（視圖）處理要展示的數據。
 3.Template（模板）展示數據。
-![alet test]
+![alet test](https://github.com/kid50901/meetup-q/blob/master/s1/img/mtv.jpg?raw=true)
+* MVC VS MTV
+![alet test](https://github.com/kid50901/meetup-q/blob/master/s1/img/mvc_vs_mtv.png?raw=true)
 ## 網站框架(Web Application Framework)
 框架是按照設計模式完成的半成品，在框架的基礎上可以進行二次開發。
 ## Django
-![alet test]
+![alet test](https://github.com/kid50901/meetup-q/blob/master/s1/img/django-logo.jpeg?raw=true)
 Django 是個用 Python 寫成的且免費開放原始碼的 Web 框架。，名稱來自一位知名的爵士吉他手 Django Reinhardt，從官網可以得知，創始者是因為喜歡這一名吉他手才將它命名為 Django。它採用了MVT設計模式。秉持著DRY(Don't Repeat Yourself)的原則，有許多的程式在 Django 都已完成。大大減低開發 web 的時間。
 ## 實際演示 Django 開發
 ![alet test]
