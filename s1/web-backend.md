@@ -11,11 +11,13 @@
 2.View（視圖）處理與展示數據。
 3.Controller（控制器）處理使用者交互的部分，例如控制器負責從視圖讀取數據，控制用戶輸入，並向模型發送數據。
 ![alet test](https://github.com/kid50901/meetup-q/blob/master/s1/img/mvc.png?raw=true)
+
 * MTV
 1.Model（模型）對資料庫的CRUD。
 2.View（視圖）處理要展示的數據。
 3.Template（模板）展示數據。
 ![alet test](https://github.com/kid50901/meetup-q/blob/master/s1/img/mtv.jpg?raw=true)
+
 * MVC VS MTV
 ![alet test](https://github.com/kid50901/meetup-q/blob/master/s1/img/mvc_vs_mtv.png?raw=true)
 ## 網站框架(Web Application Framework)
@@ -31,6 +33,6 @@ Template.html 傳遞請求給 Views.py，Views.py 依據請求從 model.py 撈�
 簡單的解釋，前端寫好html模板，讓後端直接填數據，這就是後端渲染。
 前端渲染是，通過 ajax 請求接口返回的數據，將數據渲染出來。後端只寫接口(json API)，分工更明細。
 
-##小維元件 Web 開發
+## 小維元件 Web 開發
 ![alet test](https://github.com/kid50901/meetup-q/blob/master/s1/img/pre_warroom.PNG?raw=true)
 屬於前端渲染，MQ 規劃的架構為由 python 撈 oracle DB 資料，進行後多邏輯處理後，餵入 oracle DB 的 report table，建立 json API 撈取 report table，前端元件透過 ajax 請求接口返回數據。
