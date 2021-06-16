@@ -23,7 +23,8 @@
 ## Django
 ![alet test](https://github.com/kid50901/meetup-q/blob/master/s1/img/django-logo.jpeg?raw=true)
 Django 是個用 Python 寫成的且免費開放原始碼的 Web 框架。，名稱來自一位知名的爵士吉他手 Django Reinhardt，從官網可以得知，創始者是因為喜歡這一名吉他手才將它命名為 Django。它採用了MVT設計模式。秉持著DRY(Don't Repeat Yourself)的原則，有許多的程式在 Django 都已完成。大大減低開發 web 的時間。
-## 實際演示 Django 開發
+## 實際演示 Django 製作 Query 功能
+Template.html 傳遞請求給 Views.py，Views.py 依據請求從 model.py 撈取對應的資料給 Template.html 進行呈現。
 ![alet test]
 ## 前端渲染與後端渲染
 前端沒興起之前，網頁的展示大都是後端渲染，也就是服務器渲染。隨著前端行業的發展，前端的工作越來越精細。前後端開始分離，前端只關注ui渲染。後端只提供數據和進行邏輯處理。
