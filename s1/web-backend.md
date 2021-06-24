@@ -7,16 +7,16 @@
 ## 網站設計模式(Web Design Pattern )
 對 Web 開發中普遍存在（反覆出現）的各種問題，所提出的解決方案。提供一個架構概念不提供程式碼。
 * MVC
-1.Model（模型）對資料庫的CRUD。
-2.View（視圖）處理與展示數據。
-3.Controller（控制器）處理使用者交互的部分，例如控制器負責從視圖讀取數據，控制用戶輸入，並向模型發送數據。
+1. Model（模型）對資料庫的CRUD。
+2. View（視圖）處理與展示數據。
+3. Controller（控制器）處理使用者交互的部分，例如控制器負責從視圖讀取數據，控制用戶輸入，並向模型發送數據。
 
 ![alet test](https://github.com/kid50901/meetup-q/blob/master/s1/img/mvc.png?raw=true)
 
 * MTV
-1.Model（模型）對資料庫的CRUD。
-2.View（視圖）處理要展示的數據。
-3.Template（模板）展示數據。
+1. Model（模型）對資料庫的CRUD。
+2. View（視圖）處理要展示的數據。
+3. Template（模板）展示數據。
 
 ![alet test](https://github.com/kid50901/meetup-q/blob/master/s1/img/mtv.jpg?raw=true)
 
